@@ -1,4 +1,8 @@
-# Ruby on Rails Tutorial: First application
+# Ruby on Rails Tutorial: first application
 
-This is the tutorial...  [*Ruby on Rils Tutorial... Aprende por ejemplos](http://railstutorioal.org/) by [Michael Hart] (http://michaelhartl.com)
-Tentativa 4
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
+by [Michael Hartl](http://michaelhartl.com/).
+
+Versión 6
+
